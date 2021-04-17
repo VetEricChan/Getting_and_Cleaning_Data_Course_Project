@@ -14,7 +14,7 @@ One of the most exciting areas in all of data science right now is wearable comp
 
 1.  `README.md`: explains how all of the scripts work and how they are connected.
 
-2.  `tidy_Data.txt`: a tidy data set with unique identifiers *subject* and *activity*, with 180 observations and 81 variables including *subject_id* and *activity_name*
+2.  `tidy_Data.txt`: a tidy data set with unique identifiers *subject* and *activity*, with 180 observations and 68 variables including *subject_id* and *activity_name*
 
 3.  `run_analysis.R`: code generating the tidy data set from raw data recorded in the *Human Activity Recognition Using Smartphones Data Set*. The process of generating tidy data set includes the following steps:
 
